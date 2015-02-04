@@ -73,6 +73,7 @@ label {
  * -- PURE BUTTON STYLES --
  * I want my pure-button elements to look a little different
  */
+
 .pure-button {
     background-color: #1f8dd6;
     color: white;
@@ -86,7 +87,6 @@ a.pure-button-primary {
     border-radius: 5px;
     font-size: 120%;
 }
-
 
 /*
  * -- MENU STYLES --
